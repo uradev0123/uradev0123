@@ -1,4 +1,4 @@
-👋 Hi, I’m Rintaro Ura from Japan, and used to live overseas for a long time, around 9 years in total, having many experiences on Web Development and translating English to Japanese, and also the opposite.
+👋 Hi, I’m Rintaro Ura from Japan, and used to live overseas for a long time, around 5 years in total, having many experiences on Web Development and translating English to Japanese, and also the opposite.
 
 ・Experiences in the JavaScript, React, PHP Development
 While primarily focusing on frontend development, I am also participating in backend development using PHP.
