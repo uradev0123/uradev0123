@@ -1,9 +1,11 @@
-👋 Hi, I’m Rintaro Ura from Japan, and used to live overseas for a long time, around 5 years in total, having many experiences on Web Development and translating English to Japanese, and also the opposite.
+👋 Hi, I’m Rintaro Ura from Japan, and used to live overseas for a long time, around 7 years in total, having many experiences on Web/Mobile Development.
 
-・Experiences in the JavaScript, React, PHP Development
-While primarily focusing on frontend development, I am also participating in backend development using PHP.
+- ChatGPT, OpenAI, Langchain, LLM, PineCone
+- Flutter, FlutterFlow, React Native
+- PHP, CakePHP, Laravel, Symfony, CI, Yii
+- HTML5, CSS3/TailWindCSS, JavaScript, React/Next, Angular/Vue
+- MySQL, PostgreSQL, MongoDB, Firebase, SupaBase, Amazon/Azure
 
-・Experiences upon translating formal and informal language
 I may need communication upon what the writing infers to be 100% accurate, so lets keep in touch.
 
 <!---
